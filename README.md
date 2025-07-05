@@ -1,40 +1,47 @@
-<div align="center">
+<h1 align="center">Hi, I'm Lucas Millart 👋</h1>
 
-# 👋 Salut, moi c’est Lucas
-Engineer • AI Builder • UI Architect  
-Je construis des outils, des systèmes et… des humains ?
 <p align="center">
-  <a href="https://lucasmillart.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Lucas%20Millart-orange?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-millart" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <b>Engineer • AI Builder • UI Architect • Creative Developer</b><br>
+  I design interfaces, build systems, and experiment with intelligence.
 </p>
-</div>  
+
+<p align="center">
+  <a href="https://lucasmillart.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-lucasmillart.vercel.app-informational?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lucas-millart" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧠 What I Do
-- 🎨 **UI Engineering** — React • Tailwind CSS • Accessible Design Systems (systèmes de design accessibles) • Component Architecture (architecture de composants)  
+### 🧠 What I Do
+
+- 🎨 **UI Engineering** — React • Tailwind CSS • Accessible Design Systems • Component Architecture  
 - 🧱 **Software Engineering** — Next.js • Java • SQL • GitHub Actions • Clean Code & Performance  
-- 🚀 **Crafting Experiences** — Je conçois des interfaces modernes, accessibles et réutilisables qui allient esthétique et performance. Mon objectif : faire que chaque ligne de code compte.
+- 🧬 **AI Exploration** — Gemini • GPT-4o • Transformers.js
 
 ---
 
-## 🛠️ Tech Stack
+### 🔥 Tech Stack
 
-```txt
-Languages: JavaScript · TypeScript · SQL · Java  
-Frontend: React · Next.js · Tailwind CSS  
-Backend: Node.js  
-AI/ML: Gemini · ChatGPT · Transformers.js  
-Infrastructure: Supabase · Google Cloud · GitHub Actions  
-Design: Figma
+```ts
+Languages:   JavaScript, TypeScript, SQL, Java
+Frontend:    React, Next.js, Tailwind CSS, Framer Motion
+Backend:     Node.js
+AI/ML:       Gemini, ChatGPT, Transformers.js
+Infra:       Supabase, Google Cloud, GitHub Actions
+Design:      Figma
 ```
 
+---
 
+### 🚀 Projects
 
+- 🗓️ **Planifeo** – Training planner web app built with Next.js & Supabase  
+- 🧠 **Learning AI** – Voice AI experiments using Vapi & Next.js  
+- 🧰 **lucasmillart.vercel.app** – Personal portfolio & UI dev showcase
 
+---
 
+### 💬 Let’s Connect
 
+- 🌐 Website → [lucasmilart.vercel.app](https://lucasmillart.vercel.app)
+- 💼 LinkedIn → [linkedin.com/in/lucas-millart](https://linkedin.com/in/lucas-millart)
